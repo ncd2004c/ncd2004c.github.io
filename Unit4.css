@@ -1,0 +1,31 @@
+body{
+  background-color: grey;
+  width: 80%;
+}
+p{
+  font-family:Lucida Console;
+  color:blueviolet;
+  background-color: white;
+}
+h1{
+  font-family:Brush Script MT;
+  color:red;
+  background-color: blue;
+}
+h2{
+  font-family:Garamond;
+  color:yellow;
+  background-color: black;
+}
+h3{
+  font-family:Times New Roman;
+  color:greenyellow;
+  background-color:purple;
+}
+main{
+  background-color:orange;
+}
+footer{
+  background-color:rgb(124, 77, 124);
+  font-style: italic;
+}
