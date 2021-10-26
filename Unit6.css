@@ -1,0 +1,27 @@
+body {
+  background-image: url("img/enterthegungeon.jpg");
+  object-fit: fill;
+}
+.img1{
+  height:300px;
+  border: 16px solid;
+  border-image:url("img/banana_32.png") 8/12px/12px space;
+  /* border-image-slice:32 32 32 32 fill;
+  border-image-width:20px 20px 20px 20px;
+  border-image-outset:0px 0px 0px 0px;
+  border-image-repeat:repeat repeat; */
+}
+ul{
+  background-color:black;
+  color:aliceblue;
+  list-style-image: url('img/banana_32.png');
+}
+#borderimg{
+  width:60%
+ margin auto;
+ margin-top: 30px;
+}
+.borderimg2{
+  border: 16px solid;
+  border-image:url("img/banana_32.png") 8/12px/12px space;
+}
